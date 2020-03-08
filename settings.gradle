@@ -1,0 +1,2 @@
+include ':app', ':swipeview'
+rootProject.name='SlideSwipe'
